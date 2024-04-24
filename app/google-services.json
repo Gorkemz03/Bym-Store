@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486113675752",
+    "project_id": "bym-store",
+    "storage_bucket": "bym-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486113675752:android:4733c955065b7c9110bc5d",
+        "android_client_info": {
+          "package_name": "com.example.bym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFpt-i2p4igw0MAGRRfK_ODVoBQw0xiG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

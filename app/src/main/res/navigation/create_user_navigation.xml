@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/create_user_navigation"
+    app:startDestination="@id/kullanici">
+
+    <fragment
+        android:id="@+id/kullanici"
+        android:name="com.example.bym.ui.login_fragments.Kullanici"
+        android:label="fragment_kullanici"
+        tools:layout="@layout/fragment_kullanici" >
+        <action
+            android:id="@+id/action_kullanici_to_satici"
+            app:destination="@id/satici" />
+    </fragment>
+    <fragment
+        android:id="@+id/satici"
+        android:name="com.example.bym.ui.login_fragments.Satici"
+        android:label="fragment_satici"
+        tools:layout="@layout/fragment_satici" >
+        <action
+            android:id="@+id/action_satici_to_kullanici"
+            app:destination="@id/kullanici" />
+    </fragment>
+</navigation>

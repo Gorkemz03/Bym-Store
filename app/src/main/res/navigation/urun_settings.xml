@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/urun_settings"
+    app:startDestination="@id/addUrun">
+
+    <fragment
+        android:id="@+id/addUrun"
+        android:name="com.example.bym.ui.navigation_buttons.notifications.Satici.fragments.AddUrun"
+        android:label="fragment_add_urun"
+        tools:layout="@layout/fragment_add_urun" />
+    <fragment
+        android:id="@+id/deleteUrun"
+        android:name="com.example.bym.ui.navigation_buttons.notifications.Satici.fragments.DeleteUrun"
+        android:label="fragment_delete_urun"
+        tools:layout="@layout/fragment_delete_urun" />
+    <fragment
+        android:id="@+id/updateUrun"
+        android:name="com.example.bym.ui.navigation_buttons.notifications.Satici.fragments.UpdateUrun"
+        android:label="fragment_update_urun"
+        tools:layout="@layout/fragment_update_urun" />
+    <fragment
+        android:id="@+id/updateOnClick"
+        android:name="com.example.bym.ui.navigation_buttons.notifications.Satici.fragments.recyclerUpdate.updateOnClick"
+        android:label="fragment_update_on_click"
+        tools:layout="@layout/fragment_update_on_click" />
+</navigation>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.login_fragments.Satici">
+
+    <LinearLayout
+        android:id="@+id/linear2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <EditText
+            android:id="@+id/KullanıcıAdı"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Gmail Giriniz"
+            android:textSize="40sp"
+            android:inputType="textEmailAddress"
+            android:autofillHints=""
+            android:layout_gravity="center"
+            android:layout_marginVertical="50dp"
+            />
+        <EditText
+            android:id="@+id/Password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Şifre Giriniz"
+            android:textSize="40sp"
+            android:inputType="textPassword"
+            android:autofillHints=""
+            android:layout_gravity="center"
+            android:layout_marginVertical="50dp"
+            />
+
+        <Button
+            android:id="@+id/kaydet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginVertical="50dp"
+            android:onClick="createUserr"
+            android:text="Kaydet"
+            android:textSize="25sp" />
+
+    </LinearLayout>
+
+
+</FrameLayout>

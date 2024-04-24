@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    tools:context=".ui.login_fragments.Kullanici"
+    android:backgroundTint="#FFC3A1">
+
+    <LinearLayout
+        android:id="@+id/linear2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:padding="16dp">
+
+        <EditText
+            android:id="@+id/KullanıcıAdı"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Gmail Giriniz"
+            android:textSize="18sp"
+            android:inputType="textEmailAddress"
+            android:autofillHints=""
+            android:layout_marginBottom="16dp"
+            />
+
+        <EditText
+            android:id="@+id/Password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Şifre Giriniz"
+            android:textSize="18sp"
+            android:inputType="textPassword"
+            android:autofillHints=""
+            android:layout_marginBottom="16dp"
+            />
+
+        <Button
+            android:id="@+id/kaydet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Kaydet"
+            android:textSize="18sp"
+            android:backgroundTint="#3498db"
+            android:textColor="#FFFFFF"
+            android:elevation="8dp"
+            android:paddingVertical="12dp"
+            android:onClick="createUser"/>
+    </LinearLayout>
+
+</FrameLayout>

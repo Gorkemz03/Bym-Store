@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.navigation_buttons.dashboard.MyProfil.HesapAyrlari" >
+
+    <EditText
+        android:id="@+id/oldPassword"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:hint="Mevcut Şifrenizi Giriniz."
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:layout_marginTop="105dp"/>
+
+    <EditText
+        android:id="@+id/newPassword"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textAlignment="center"
+        android:hint="Yeni Şifrenizi Giriniz."
+        android:layout_gravity="center"
+        android:layout_marginTop="75dp"
+        />
+    <Button
+        android:id="@+id/Password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Şifreyi Değiştir"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="150dp"
+        />
+
+</LinearLayout>
