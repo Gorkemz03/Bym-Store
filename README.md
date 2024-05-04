@@ -56,7 +56,11 @@ Uygulama internete bağlı bir şekilde kullanılmalıdır. Yoksa her adımda in
 ![Ekran görüntüsü 2024-05-04 215121](https://github.com/Gorkemz03/Bym-Store/assets/91285958/1c843224-e55a-4160-915c-bf064c0c14af)
 ![Ekran görüntüsü 2024-05-04 215127](https://github.com/Gorkemz03/Bym-Store/assets/91285958/dda3b393-8ecc-422a-9169-3a451fdf4c94)
 
-
-
-
+![Ekran görüntüsü 2024-05-04 214554](https://github.com/Gorkemz03/Bym-Store/assets/91285958/7c091e87-caa9-42f8-afba-c89a0f153948)
+![Ekran görüntüsü 2024-05-04 214517](https://github.com/Gorkemz03/Bym-Store/assets/91285958/875a54fb-bf44-4484-8c80-ebed26d26d47)
+![Ekran görüntüsü 2024-05-04 214620](https://github.com/Gorkemz03/Bym-Store/assets/91285958/cd87bed9-ee27-48ce-86aa-90112bd08d80)![Ekran görüntüsü 2024-05-04 214752](https://github.com/Gorkemz03/Bym-Store/assets/91285958/cd71c14b-2899-4ccf-b99f-6089f50ab721)
+![Ekran görüntüsü 2024-05-04 214805](https://github.com/Gorkemz03/Bym-Store/assets/91285958/b696a0d4-ecb9-43fb-9a6b-8d95ad9dc64b)
+![Ekran görüntüsü 2024-05-04 214812](https://github.com/Gorkemz03/Bym-Store/assets/91285958/04978f9a-202b-461d-ae0e-870d396b32d3)
+![Ekran görüntüsü 2024-05-04 214819](https://github.com/Gorkemz03/Bym-Store/assets/91285958/8dd88508-6dc2-4a0a-8578-e22edfa33e5f)
+![Ekran görüntüsü 2024-05-04 214740](https://github.com/Gorkemz03/Bym-Store/assets/91285958/fac95bb7-92b4-4ddc-a336-aa0d87aee4b5)
 
