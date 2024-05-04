@@ -52,6 +52,9 @@ Uygulama internete bağlı bir şekilde kullanılmalıdır. Yoksa her adımda in
 ![deneme1](https://github.com/Gorkemz03/Bym-Store/assets/91285958/1dd721d1-bce3-4f39-96b7-d43edc1b468d)
 ![deneme2](https://github.com/Gorkemz03/Bym-Store/assets/91285958/771007c7-ebd9-4116-b11a-eb3adf4149c0)
 ![düzenleme](https://github.com/Gorkemz03/Bym-Store/assets/91285958/fd2c10d6-ac50-44ca-a925-2e29844ad523)
+![Ekran görüntüsü 2024-05-04 215114](https://github.com/Gorkemz03/Bym-Store/assets/91285958/f5eeca00-00dc-40a3-b9c8-1580d0e9c288)
+![Ekran görüntüsü 2024-05-04 215121](https://github.com/Gorkemz03/Bym-Store/assets/91285958/1c843224-e55a-4160-915c-bf064c0c14af)
+![Ekran görüntüsü 2024-05-04 215127](https://github.com/Gorkemz03/Bym-Store/assets/91285958/dda3b393-8ecc-422a-9169-3a451fdf4c94)
 
 
 
